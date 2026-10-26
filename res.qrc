@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/chip.png</file>
+        <file>Image/CH341.png</file>
+    </qresource>
+</RCC>
